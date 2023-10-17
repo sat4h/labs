@@ -16,6 +16,3 @@
 ![image](https://github.com/sat4h/labs/assets/146749026/174aa5fe-b3c7-4f11-a051-57740ff07f25)
 Все данные внесу в таблицу:
 
-1	2	3	4
-b	b	b	b
-![image](https://github.com/sat4h/labs/assets/146749026/b7214d88-6baf-4de2-86ab-2cab1e135ac8)
