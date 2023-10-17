@@ -13,7 +13,7 @@
 ![image](https://github.com/sat4h/labs/assets/146749026/44e0386f-331d-4db6-8522-f943373478a0)
 
 
-Все данные внесу в таблицу:
+Все данные внесу в таблицу, где N это размер матрицы NxN:
 
 ![image](https://github.com/sat4h/labs/assets/146749026/9e39da5e-0353-4910-bacb-e01d26eb178e)
 
