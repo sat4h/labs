@@ -5,14 +5,18 @@
 Если брать маленькие матрицы, например 10х10, то вычисление на ЦПУ занимает меньше времени чем на ГПУ:
 
 ![image](https://github.com/sat4h/labs/assets/146749026/b25cdf15-2d81-40fa-9ca0-03ac0e01d06f)
+
 При размере матрицы 100х100:
 
 ![image](https://github.com/sat4h/labs/assets/146749026/44e0386f-331d-4db6-8522-f943373478a0)
+
 При размере матрицы 200х200:
 
 ![image](https://github.com/sat4h/labs/assets/146749026/1583cd5d-9f65-4367-9c86-1a81b0b04748)
+
 При размере матрицы 300х300:
 
 ![image](https://github.com/sat4h/labs/assets/146749026/00f2d120-4cf9-4118-aec7-193c5718dcfd)
+
 Все данные внесу в таблицу:
 
