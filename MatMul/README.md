@@ -15,4 +15,6 @@
 
 Все данные внесу в таблицу:
 
-![image](https://github.com/sat4h/labs/assets/146749026/cbc2a225-cba0-4e8a-93fd-22c553d061b9)
+![image](https://github.com/sat4h/labs/assets/146749026/9e39da5e-0353-4910-bacb-e01d26eb178e)
+
+![image](https://github.com/sat4h/labs/assets/146749026/a2f659ac-2a1b-4ab8-9af2-2375f02e151f)
