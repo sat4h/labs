@@ -4,11 +4,11 @@
 
 ![image](https://github.com/sat4h/labs/assets/146749026/e0ee5082-b054-4b4a-b59b-b45ea566ec77)
 
-2. Task definition
+  2. Task definition
 Given the image of size M×N, implement and apply a CUDA version of 9-point bilateral filter and store the
 result to output image. Missing values for edge rows and columns are to be taken from nearest pixels. CUDA
 implementation must make use of texture memory.
-3. Proposed method
+   3. Proposed method
 The following method could be used to implement the bilateral filter:
 1. Copy input data to device memory;
 2. Bind input data to a texture link;
@@ -38,6 +38,7 @@ Bilateral filtering on GPU
 
 ![image](https://github.com/sat4h/labs/assets/146749026/b7d3c7bd-18ee-4fee-9e50-033cfb1b92cc)
 Время выполнения на GPU 0.04947
+
 Bilateral filtering on CPU
 
 ![image](https://github.com/sat4h/labs/assets/146749026/c7ce6761-2893-4c73-904a-7226b73ec425)
