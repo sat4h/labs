@@ -25,8 +25,11 @@ The following method could be used to implement the bilateral filter:
 4.Implementation requirements
 
 4.1. Input data
+
 • Input grayscale image in BMP format, σ values;
+
 4.2. Output data
+
 • The time of image processing using GPU;
 • The time of image processing using СPU;
 • Resulting images in BMP format.
