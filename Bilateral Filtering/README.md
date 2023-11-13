@@ -36,9 +36,9 @@ The following method could be used to implement the bilateral filter:
 
 ![image](https://github.com/sat4h/labs/assets/146749026/7118be51-b4c0-464f-a055-ffb4f5ffad22)
 
-Лабораторная работа была выполнена в гугл коллаб.
+Лабораторная работа была выполнена в гугл коллаб. Выполнено на языке Python.
 
-1 Изображение 
+`1 Изображение `
 
 ![image](https://github.com/sat4h/labs/assets/146749026/6ad82b74-cdec-4324-9e0b-7565945176a3)
 Размеры изображения:
@@ -55,3 +55,12 @@ Bilateral filtering on CPU
 ![image](https://github.com/sat4h/labs/assets/146749026/c7ce6761-2893-4c73-904a-7226b73ec425)
 Время выполнения на CPU 46.18258
 Ускорение:  923.454347826087
+
+`2 Изображение`
+
+![image](https://github.com/sat4h/labs/assets/146749026/d4556c8e-1830-4629-a0f2-bad9307a8574)
+
+Размеры изображения:
+
+Ширина: 1200, Высота: 600
+
