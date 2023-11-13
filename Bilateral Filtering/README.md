@@ -10,12 +10,12 @@ result to output image. Missing values for edge rows and columns are to be taken
 implementation must make use of texture memory.
    3. Proposed method
 The following method could be used to implement the bilateral filter:
-1. Copy input data to device memory;
-2. Bind input data to a texture link;
-3. Extract each pixel together with its surrounding pixels via texture memory into 9-elements array;
-4. Calculate the result pixel intensity using the formulas above;
-5. Store the result into the array.
-4. Implementation requirements
+1.Copy input data to device memory;
+2.Bind input data to a texture link;
+3.Extract each pixel together with its surrounding pixels via texture memory into 9-elements array;
+4.Calculate the result pixel intensity using the formulas above;
+5.Store the result into the array.
+4.Implementation requirements
 4.1. Input data
 • Input grayscale image in BMP format, σ values;
 4.2. Output data
