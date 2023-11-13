@@ -64,9 +64,13 @@ Bilateral filtering on CPU
 
 Ширина: 1600, Высота: 900
 
+Bilateral filtering on GPU
+
 ![image](https://github.com/sat4h/labs/assets/146749026/1c71980c-7380-4467-887d-d11f73aa6869)
 
 Время выполнения на GPU  0.10468
+
+Bilateral filtering on СPU
 
 ![image](https://github.com/sat4h/labs/assets/146749026/1f36aea7-fb0c-4e35-a0af-86581f7693b2)
 
