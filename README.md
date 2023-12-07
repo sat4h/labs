@@ -10,4 +10,4 @@
 
 # Java
 
-### [Practical Work #1]()
+### [Practical Work #1](https://github.com/sat4h/Java.git)
