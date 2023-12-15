@@ -8,6 +8,8 @@
 
 ### [3. Лабораторная работа Bilateral Filtering](https://github.com/sat4h/labs/tree/826b974523a797dfda2921b7332b8e9b9aae9dc8/Bilateral%20Filtering)
 
+### [4. Лабораторная работа Salt and Pepper](https://github.com/sat4h/labs/tree/6177d8a91bd4556cd54f23e0c04a2dfb4dc83b20/SaltAndPepper)
+
 # Java
 
 ### [Practical Work #1](https://github.com/sat4h/Java.git)
